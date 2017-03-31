@@ -706,7 +706,7 @@
             "paddingBottom": "0",
             "bgColor": "#000000"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">TOP</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Prijzen.html\" data-toolbar=\"-mbrBtnMove\">TOP</a>"
         }
       ]
     },
