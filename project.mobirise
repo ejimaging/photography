@@ -1532,7 +1532,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/studio-session-1-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/studio%20session%201-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/studio-session-1-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1542,7 +1542,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/studio-session-1-2000x2999-800x1199.jpg",
-                "image": "@PROJECT_PATH@/assets/images/studio%20session%201-2000x2999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/studio-session-1-2000x2999.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -2065,13 +2065,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 EJ Imaging."
         },
@@ -2107,27 +2107,27 @@
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-21",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "",
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": "",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#565a63",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
           },
           "title": "PRICING TABLE",
           "subtitle": "Pricing table with four columns and solid color background.",
@@ -2221,7 +2221,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/breskens-1-18102015-2000x1483-800x593.jpg",
-                "image": "@PROJECT_PATH@/assets/images/breskens%201%2018102015-2000x1483.jpg",
+                "image": "@PROJECT_PATH@/assets/images/breskens-1-18102015-2000x1483.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2261,7 +2261,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1041-1-copy-2000x1095-800x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_1041_1%20-%20copy-2000x1095.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1041-1-copy-2000x1095.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2341,7 +2341,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-6626-edit-edit-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_6626-edit-edit-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6626-edit-edit-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2351,7 +2351,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/wenduine-dijk-resized-modified-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wenduine_dijk_resized_modified-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wenduine-dijk-resized-modified-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
