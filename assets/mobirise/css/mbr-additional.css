@@ -6,6 +6,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -414,7 +416,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -485,37 +487,47 @@ h6,
   background-color: #ffffff;
 }
 #header1-1 .mbr-section-lead {
-  text-align: center;
-  color: #ffffff;
+  text-align: right;
+  color: #000000;
   font-size: 46px;
   font-family: 'Indie Flower', cursive;
 }
 #header1-1 .mbr-section-title P {
-  text-align: center;
+  text-align: right;
   font-size: 100px;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Indie Flower', cursive;
 }
-#content5-c .mbr-section-title,
-#content5-c p {
-  color: #fff;
+#header1-1 .mbr-section-lead B {
+  color: #000000;
 }
-#features4-2 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#content2-1k P {
+#header2-2q .mbr-section-text {
+  color: #000000;
+  font-size: 24px;
   text-align: left;
 }
-#features3-a H4 {
-  color: #ffffff;
+#header2-2q .mbr-section-text B {
+  font-size: 30px;
 }
 #content5-b .mbr-section-title,
 #content5-b p {
   color: #fff;
+}
+#content5-b .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
+}
+#content5-2t .mbr-section-title,
+#content5-2t p {
+  color: #fff;
+}
+#content5-2t .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
 }
 #form1-5 .form-control-label {
   color: #000000;
@@ -523,14 +535,4 @@ h6,
 #social-buttons3-1o .mbr-section-title,
 #social-buttons3-1o .btn-social {
   color: #fff;
-}
-#pricing-table1-21 .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-21 .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#pricing-table1-21 .mbr-plan-price-desc {
-  text-align: right;
-  color: #ffffff;
 }
