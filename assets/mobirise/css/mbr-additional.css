@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -524,6 +525,16 @@ h6,
   color: #fff;
 }
 #content5-2t .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
+}
+#content5-2v .mbr-section-title,
+#content5-2v p {
+  color: #fff;
+}
+#content5-2v .mbr-section-title {
   text-align: left;
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
